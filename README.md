@@ -69,3 +69,7 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 </div>
 
 ###
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4nafp5u2e6pieokbtcyo63rua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=0400ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+###
