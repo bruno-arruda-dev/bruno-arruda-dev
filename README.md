@@ -26,7 +26,7 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
 ---
 
-[![Personal Portfolio](https://img.shields.io/badge/%20Personal%20Portfolio%20-20B2AA?=for-the-badge)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+[![Personal Portfolio](https://img.shields.io/badge/%20Personal%20Portfolio%20-20B2AA?=for-the-badge)](https://portfolio-bruno-kappa.vercel.app/)
 
 ___
 
