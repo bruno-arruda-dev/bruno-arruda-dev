@@ -13,6 +13,8 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
   - I am very studious and disciplined, I am looking for my first opportunity as a web developer.
 </p>
 
+---
+
 <!--dropdown-->
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -21,6 +23,8 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
   - ⚡ In my free time I like to stay with my family, watch a good movie or cook something very tasty. I also really like electronic games. To take care of my health I practice bodybuilding and once in a while I play soccer. \o/
 </details>
+
+---
 
 ###
 
