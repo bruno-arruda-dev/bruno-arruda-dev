@@ -4,6 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!--presentation-->
 <p align="left">
 Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
@@ -11,6 +12,15 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
   - I am very studious and disciplined, I am looking for my first opportunity as a web developer.
 </p>
+
+<!--dropdown-->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 34 years old, I live in Brazil and I really like to develop frontend using NextJS, TypeScript and SASS. I am learning TailwindCSS because I believe it can improve my productivity. On the backend I am studying a lot of NodeJS and I started to build my first APIs. For database, I like to use MySql and MongoDB.
+
+  - ⚡ In my free time I like to stay with my family, watch a good movie or cook something very tasty. I also really like electronic games. To take care of my health I practice bodybuilding and once in a while I play soccer. \o/
+</details>
 
 ###
 
