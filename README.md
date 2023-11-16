@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil</h2>
+<!--title-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+<p align="left">
+Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
+
+  - I am passionate about web development and currently study Analysis and Development of Systems at Universidade Paulista.
+
+  - I am very studious and disciplined, I am looking for my first opportunity as a web developer.
+</p>
 
 ###
 
