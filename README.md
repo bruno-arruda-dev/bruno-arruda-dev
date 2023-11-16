@@ -26,8 +26,6 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
 ---
 
-###
-
 <div align="center">
 
   <a href="https://github.com/bruno-arruda-dev">
@@ -58,16 +56,16 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
 ###
 
-<div style="display: inline_block;">
-
-  <br>
-    <a href="https://github.com/bruno-arruda-dev?tab=repositories&q=&type=&language=javascript&sort="><img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> -
-    <a href="https://github.com/bruno-arruda-dev?tab=repositories&q=&type=&language=typescript&sort="><img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a> -
-    <a href="https://github.com/bruno-arruda-dev?tab=repositories&q=&type=&language=html&sort="><img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> -
-    <a href="https://github.com/bruno-arruda-dev?tab=repositories&q=&type=&language=css&sort="><img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
-  <img align="left" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/twRn0hp/1680053138446.png">
-  </br>
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/bruno-arruda-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:bruno.arrm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/arruda#5788" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
