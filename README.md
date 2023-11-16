@@ -74,4 +74,4 @@ Hi 👋! My name is Bruno Arruda and I'm a web developer from Brazil.
 
 ###
 
-<img align="center" height="150" src="https://i.imgur.com/FEt4fFm.gif"  />
+<img align="center" margin="auto" height="150" src="https://i.imgur.com/FEt4fFm.gif"  />
